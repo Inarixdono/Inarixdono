@@ -3,6 +3,7 @@ I'm a computer systems engineering student who's interested on Data Science fiel
 
 ### I'm currently learning:
 * JavaScript
+* Java
 * PHP
 * FastAPI
 * React
